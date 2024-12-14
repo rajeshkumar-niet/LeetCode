@@ -1,40 +1,115 @@
 # LeetCode Solutions in Java
 
-Welcome to my GitHub repository! Here, I have uploaded solutions to various LeetCode problems implemented in Java. This repository serves as a collection of my learning journey and problem-solving practice.
+Welcome to my LeetCode solutions repository! This project contains Java solutions for a wide range of LeetCode problems. Each solution is written with clarity, efficiency, and maintainability in mind. Whether you're preparing for coding interviews or looking to enhance your problem-solving skills, this repository has something for you.
 
-## 📂 Repository Structure
+---
 
-Each solution is stored in its respective Java file. The repository is structured to make it easy to navigate and find solutions for specific problems.
+## Table of Contents
 
-## 💻 Language Used
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Solutions](#solutions)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
 
-- **Java**: All solutions are implemented in Java, following clean coding principles.
+---
 
-## 🚀 How to Use
+## About
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/yourusername/leetcode-solutions.git](https://github.com/rajeshkumar-niet/LeetCode)
+This repository is a collection of Java-based solutions for problems available on the LeetCode platform. Each problem has:
 
-Navigate to the desired problem's solution and run it in your preferred Java IDE.
-🏆 Topics Covered
-This repository includes solutions across a variety of topics, such as:
+- A clear problem statement (linked to LeetCode).
+- A well-documented Java solution.
+- A testable and modular code structure.
 
-Arrays
-Strings
-Linked Lists
-Trees and Graphs
-Dynamic Programming
-Backtracking
-Sorting and Searching
-And many more!
-🤝 Contributions
-Feel free to contribute by:
+---
 
-Adding new solutions.
-Improving the existing code.
-Reporting any issues.
-To contribute, fork this repository, make your changes, and submit a pull request.
+## Getting Started
 
-📞 Contact
-If you have any questions or suggestions, feel free to reach out to me through my GitHub profile.
+### Prerequisites
+
+To use or test the solutions, ensure you have the following installed:
+
+- [Java JDK 8 or higher](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [An IDE (e.g., IntelliJ, Eclipse, or VS Code)](https://code.visualstudio.com/)
+
+### Cloning the Repository
+
+Clone this repository using Git:
+
+```bash
+git clone https://github.com/rajeshkumar-niet/LeetCode
+```
+
+---
+
+## Solutions
+
+The repository is organized by problem categories:
+
+1. **Array Problems**
+2. **Linked List Problems**
+3. **Dynamic Programming Problems**
+4. **Tree Problems**
+5. **Graph Problems**
+
+Each category is located in a dedicated folder, and every file is named after the problem it solves.
+
+---
+
+## How to Use
+
+1. Navigate to the problem category folder.
+2. Open the Java file for the solution.
+3. Run the file to test the solution locally.
+
+### Example
+
+```java
+// Example usage for a solution file
+public class TwoSum {
+    public int[] twoSum(int[] nums, int target) {
+        // Implementation here
+    }
+}
+```
+
+---
+
+## Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+3. Commit your changes:
+
+    ```bash
+    git commit -m "Add your message here"
+    ```
+
+4. Push to your branch:
+
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+
+5. Open a pull request.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to use, modify, and distribute this code as per the license terms.
+
+---
+
+Happy coding! 🎉
