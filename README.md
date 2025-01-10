@@ -119,6 +119,7 @@ Happy coding! 🎉
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0136-single-number) |
@@ -135,6 +136,7 @@ Happy coding! 🎉
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
