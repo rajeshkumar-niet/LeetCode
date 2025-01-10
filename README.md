@@ -120,6 +120,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@ Happy coding! 🎉
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -181,5 +183,6 @@ Happy coding! 🎉
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
